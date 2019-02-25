@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Levels/anaMenu.unity
+    guid: 2ffe4275b2d866045a582c150fe0a47c
+  - enabled: 1
+    path: Assets/Levels/level1.unity
+    guid: 60bfea6a8d513e242a0a2d7c3607d879
